@@ -1,2 +1,12 @@
+# binary
 *.exe
+
+# byte code
 *.class
+*.jar
+
+# rust debug
+*.pdb
+
+# scala debug
+*.tasty

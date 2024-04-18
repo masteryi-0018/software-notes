@@ -11,3 +11,9 @@
 vbc .\test.vb
 .\test.exe
 ```
+
+
+## 笔记
+
+- 上古语言，vscode已经没有它的图标了
+- 也是.Net的编程语言

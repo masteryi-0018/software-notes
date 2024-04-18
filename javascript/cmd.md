@@ -12,6 +12,8 @@ node .\test.js
 ```
 
 
-## 包管理器
+## 笔记
 
-使用`npm`来管理js的包
+- web的编程语言
+- 需要HTML和CSS的基础
+- 使用`npm`来管理js的包

@@ -4,7 +4,7 @@
 > 
 > 下面还有专门的framework，以及编码包下载
 
-默认安装在`C:\Windows\Microsoft.NET`，没有机会自定义安装目录
+.Net的编程语言，默认安装在`C:\Windows\Microsoft.NET`，没有机会自定义安装目录
 
 
 ## 2种方式

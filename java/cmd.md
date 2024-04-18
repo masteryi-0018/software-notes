@@ -11,3 +11,9 @@
 javac HelloWorld.java
 java HelloWorld
 ```
+
+
+## 笔记
+
+- 跨平台，字节码而不是机器码
+- 具有里程碑意义
