@@ -1,4 +1,5 @@
 # binary
+*.obj
 *.exe
 
 # byte code
