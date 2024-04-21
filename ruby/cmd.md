@@ -29,3 +29,9 @@ irb
    2 - MSYS2 system update (optional)
    3 - MSYS2 and MINGW development toolchain
 ```
+
+
+## 笔记
+
+- 使用包管理器rubygems管理名为gems格式的包
+- 可以通过rbs添加类型（类似于ts和js的关系）

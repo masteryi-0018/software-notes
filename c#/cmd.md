@@ -26,3 +26,8 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319
 csc .\test.cs
 .\test.exe
 ```
+
+
+## 笔记
+
+c#被编译称为一种通用中间语言（CIL），可以由通用语言运行时（CLR）来解释，虽然是机器码，但不需要重新编译，这与c++在每种平台都有一套机器码是不一样的

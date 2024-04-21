@@ -6,6 +6,7 @@
 - 版本控制git，GitHub
 - 正则表达式
 - 网络：TCP/IP，HTTP，HTTPS，DNS
+- 同步、异步、回调函数
 
 HTTPS 经由 HTTP 进行通信，但利用 SSL/TLS 来加密数据包，HTTPS 开发的主要目的，是提供对网站服务器的身份认证，保护交换资料的隐私与完整性。HTTP 的 URL 是由 http:// 起始与默认使用端口 80，而 HTTPS 的 URL 则是由 https:// 起始与默认使用端口443。
 

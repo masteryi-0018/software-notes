@@ -68,7 +68,7 @@ part3
 - LNMP（Linux + Nginx+ MySQL + PHP）
 - ECS（Elastic Compute Service）云服务器
 - MVC 模型，即 Model（模型）+ View（视图）+ Controller（控制器）设计模式
-- CGI
+- CGI（通用网关接口），服务器与外部程序通信
 
 
 ## 服务器
