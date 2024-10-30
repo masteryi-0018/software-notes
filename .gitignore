@@ -11,3 +11,7 @@
 
 # scala debug
 *.tasty
+
+# cangjie
+*.cjo
+*.bchir2
