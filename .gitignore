@@ -15,3 +15,10 @@
 # cangjie
 *.cjo
 *.bchir2
+
+# c/cpp
+*.i
+*.s
+*.o
+*.a
+*.so
