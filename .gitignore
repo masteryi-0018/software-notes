@@ -22,3 +22,6 @@
 *.o
 *.a
 *.so
+
+# python
+__pycache__/
