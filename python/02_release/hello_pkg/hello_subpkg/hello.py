@@ -1,4 +1,4 @@
-print("api.py loaded")
+print("hello.py loaded")
 
 import os
 current_working_directory = os.getcwd()
@@ -12,12 +12,16 @@ print("当前模块:", __name__)
 print("当前包:", __package__)
 
 
-def say_api():
-    print(f"Hello, api")
+def say_hello():
+    print(f"Hello, hello")
 
 
-import core
-core.say_core()
+# import core
+# from .. import core
 
 # import hello_pkg.core
-# hello_pkg.core.say_core()
+
+from hello_pkg import core
+print("Imported core module in hello.py")
+core.say_core()
+# why not circular import error?

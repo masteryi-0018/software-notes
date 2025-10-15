@@ -16,8 +16,11 @@ def say_api():
     print(f"Hello, api")
 
 
-import core
-core.say_core()
+# import core
+# core.say_core()
 
 # import hello_pkg.core
 # hello_pkg.core.say_core()
+
+from hello_pkg import core
+core.say_core()

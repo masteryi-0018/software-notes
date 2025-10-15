@@ -1,4 +1,4 @@
-print("api.py loaded")
+print("core.py loaded")
 
 import os
 current_working_directory = os.getcwd()
@@ -12,12 +12,9 @@ print("当前模块:", __name__)
 print("当前包:", __package__)
 
 
-def say_api():
-    print(f"Hello, api")
+def say_core():
+    print(f"Hello, core")
 
 
-import core
-core.say_core()
-
-# import hello_pkg.core
-# hello_pkg.core.say_core()
+from hello_pkg.hello_subpkg import hello
+hello.say_hello()

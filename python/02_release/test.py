@@ -4,7 +4,7 @@ import hello_pkg
 import hello_pkg.api
 # from hello_pkg import api
 
-# hello_pkg.api.say_api()
+hello_pkg.api.say_api()
 # api.say_api()
 
 def say_test():
