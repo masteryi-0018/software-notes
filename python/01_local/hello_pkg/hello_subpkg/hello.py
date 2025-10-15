@@ -1,4 +1,4 @@
-print("core.py loaded")
+print("hello.py loaded")
 
 import os
 current_working_directory = os.getcwd()
@@ -12,5 +12,12 @@ print("当前模块:", __name__)
 print("当前包:", __package__)
 
 
-def say_core():
-    print(f"Hello, core")
+def say_hello():
+    print(f"Hello, hello")
+
+
+import core
+# from .. import core
+
+# import hello_pkg.core
+# from hello_pkg import core

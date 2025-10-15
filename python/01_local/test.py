@@ -1,13 +1,14 @@
 print("test.py loaded")
 
-# import hello_pkg.api
+import hello_pkg
+import hello_pkg.api
 # from hello_pkg import api
 
-# print(hello_pkg.api.say_hello("Test"))
-# print(api.say_hello("Test"))
+# hello_pkg.api.say_hello()
+# api.say_hello()
 
-def say_test(name="Test"):
-    print(f'Hello, {name}')
+def say_test():
+    print(f'Hello, test')
 
 
 if __name__ == "__main__":
