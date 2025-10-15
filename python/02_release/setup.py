@@ -7,5 +7,5 @@ setup(
     version="0.1",
     description="A simple hello package",
     author="masteryi",
-    packages=["hello_pkg"],
+    packages=["hello_pkg", "hello_pkg.hello_subpkg"],
 )
