@@ -29,4 +29,8 @@ bash Miniforge3-26.1.1-2-Linux-x86_64.sh
 
 # 换源
 https://github.com/masteryi-0018/DL-notes/tree/main/vpn#%E5%85%B3%E4%BA%8Econda%E5%92%8Cpip
+
+# git 代理
+git config --global http.proxy http://proxy.example.com:8080
+git config --global https.proxy https://proxy.example.com:8080
 ```
